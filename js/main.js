@@ -1,4 +1,4 @@
-/* HAIXING FABRICS — site behavior: mobile nav, language switch, forms. */
+/* HAIWA FABRICS — site behavior: mobile nav, language switch, forms. */
 (function(){
   "use strict";
 

@@ -1,4 +1,4 @@
-/* HAIXING FABRICS — i18n dictionary.
+/* HAIWA FABRICS — i18n dictionary.
    Loaded as a plain script (not fetch/JSON) so the site works over file:// too.
    English is the complete, authoritative language. Chinese (Simplified) is a
    full parallel translation — every visible string on every page.
@@ -31,9 +31,9 @@ window.HX_I18N = {
     "footer.denim":"Denim", "footer.highStretchShort":"High-Stretch", "footer.lowStretchShort":"Low-Stretch",
     "footer.nonStretchShort":"Non-Stretch", "footer.wovenFabrics":"Woven Fabrics", "footer.customFabrics":"Custom Fabrics",
     "footer.workwearFabrics":"Workwear Fabrics",
-    "footer.copyright":"© 2026 Haixing Fabrics. All rights reserved.",
+    "footer.copyright":"© 2026 Haiwa Fabrics. All rights reserved.",
     "location.guangdong":"Guangdong, China",
-    "section.whyChoose":"Why Choose Haixing Fabrics?",
+    "section.whyChoose":"Why Choose Haiwa Fabrics?",
     "section.ourFabrics":"Our Fabrics",
     "section.globalMarkets":"Supplying Woven Fabrics to Global Markets",
 
@@ -58,13 +58,13 @@ window.HX_I18N = {
     "page.ourEntities":"Our Entities",
 
     "success.quoteTitle":"Quote Request Received",
-    "success.quoteBody":"Thank you for contacting Haixing Fabrics. Our sales team has received your request and will respond by email or WhatsApp, typically within one to two business days, with pricing and lead time based on your specification.",
+    "success.quoteBody":"Thank you for contacting Haiwa Fabrics. Our sales team has received your request and will respond by email or WhatsApp, typically within one to two business days, with pricing and lead time based on your specification.",
     "success.requirementTitle":"Requirement Received",
     "success.requirementBody":"Thank you — your fabric requirement has been sent to our development team. We typically respond within one to two business days by email or WhatsApp with development feasibility and next steps.",
 
     "entity.manufacturingTag":"Manufacturing Entity", "entity.salesTag":"Sales Showroom",
     "entity.factoryDesc":"Our production base, located in Nanhai District, Foshan, Guangdong Province — operating 500+ imported Belgian Picanol weaving machines across an integrated woven fabric production line.",
-    "entity.salesDesc":"Our sales showroom, located in Shunde District, Foshan, Guangdong Province — handling international enquiries, sampling, quotation and export logistics under the Haixing Fabrics brand.",
+    "entity.salesDesc":"Our sales showroom, located in Shunde District, Foshan, Guangdong Province — handling international enquiries, sampling, quotation and export logistics under the Haiwa Fabrics brand.",
     "entity.factoryLabel":"Factory",
     "entity.nanhaiLine":"Nanhai District, Foshan, Guangdong, China",
     "entity.shundeLine":"Shunde District, Foshan, Guangdong, China",
@@ -72,7 +72,7 @@ window.HX_I18N = {
     "entity.salesName":"Foshan Shunde Jinmianyang Textile Products Co., Ltd.",
 
     "brand.subLine":"Manufacturer & Exporter",
-    "about.hero.eyebrow":"About Haixing Fabrics",
+    "about.hero.eyebrow":"About Haiwa Fabrics",
     "about.hero.title":"Professional Woven Fabric Manufacturer & Global Exporter from China",
 
     "ph.fabricType":"e.g. Denim, Cotton Twill",
@@ -116,7 +116,7 @@ window.HX_I18N = {
 
     "tag.manufacturing":"Manufacturing", "tag.customDev":"Custom Development", "tag.qualityControl":"Quality Control",
     "tag.globalReach":"Global Reach", "tag.insideTheMill":"Inside the Mill", "tag.coreProductLine":"Core Product Line",
-    "tag.productRange":"Product Range", "tag.haixingAdvantage":"The Haixing Advantage", "tag.positioning":"Positioning",
+    "tag.productRange":"Product Range", "tag.haiwaAdvantage":"The Haiwa Advantage", "tag.positioning":"Positioning",
 
     "denim.pageTitle":"Denim Fabrics for Modern Apparel Manufacturing",
     "mfg.pageTitle":"Large-Scale Woven Fabric Manufacturing",
@@ -309,8 +309,8 @@ window.HX_I18N = {
     "mkt.cta.lede":"Tell us your country and fabric requirement — we'll advise on shipping and lead time.",
 
     /* ---- ABOUT (about.html) ---- */
-    "about.heroLede":"Haixing Fabrics is the international brand of a large-scale woven fabric manufacturer based in Guangdong, China, supported by a dedicated sales and export office. From yarn to fabric, from China to global markets.",
-    "about.whyTag":"Positioning", "about.whyTitle":"Why Buyers Work With Haixing Fabrics",
+    "about.heroLede":"Haiwa Fabrics is the international brand of a large-scale woven fabric manufacturer based in Guangdong, China, supported by a dedicated sales and export office. From yarn to fabric, from China to global markets.",
+    "about.whyTag":"Positioning", "about.whyTitle":"Why Buyers Work With Haiwa Fabrics",
     "about.reason.directSupply.desc":"Large-scale manufacturing directly from Guangdong, China.",
     "about.reason.largeCapacity.desc":"500+ Picanol weaving machines and approximately 60 million meters annual capacity.",
     "about.reason.stableProduction.desc":"Approximately 180,000 meters of daily production capacity.",
@@ -392,9 +392,9 @@ window.HX_I18N = {
     "footer.denim":"牛仔布", "footer.highStretchShort":"高弹力", "footer.lowStretchShort":"低弹力",
     "footer.nonStretchShort":"无弹力", "footer.wovenFabrics":"机织面料", "footer.customFabrics":"定制面料",
     "footer.workwearFabrics":"工作服面料",
-    "footer.copyright":"© 2026 Haixing Fabrics. 保留所有权利。",
+    "footer.copyright":"© 2026 Haiwa Fabrics. 保留所有权利。",
     "location.guangdong":"中国广东",
-    "section.whyChoose":"为什么选择 Haixing Fabrics？",
+    "section.whyChoose":"为什么选择 Haiwa Fabrics？",
     "section.ourFabrics":"我们的面料",
     "section.globalMarkets":"面料远销全球市场",
 
@@ -419,13 +419,13 @@ window.HX_I18N = {
     "page.ourEntities":"我们的机构",
 
     "success.quoteTitle":"报价请求已收到",
-    "success.quoteBody":"感谢您联系 Haixing Fabrics。我们的销售团队已收到您的请求，将根据您的规格通过邮件或 WhatsApp 回复报价与交期，通常在一到两个工作日内。",
+    "success.quoteBody":"感谢您联系 Haiwa Fabrics。我们的销售团队已收到您的请求，将根据您的规格通过邮件或 WhatsApp 回复报价与交期，通常在一到两个工作日内。",
     "success.requirementTitle":"需求已收到",
     "success.requirementBody":"感谢您——您的面料需求已发送至我们的开发团队。我们通常会在一到两个工作日内通过邮件或 WhatsApp 回复开发可行性及后续步骤。",
 
     "entity.manufacturingTag":"生产机构", "entity.salesTag":"销售展厅",
     "entity.factoryDesc":"我们的生产基地位于广东省佛山市南海区，拥有 500 多台进口比利时必佳乐织机，构成完整的机织面料生产线。",
-    "entity.salesDesc":"我们的销售展厅位于广东省佛山市顺德区，以 Haixing Fabrics 品牌处理国际询盘、样品、报价与出口物流。",
+    "entity.salesDesc":"我们的销售展厅位于广东省佛山市顺德区，以 Haiwa Fabrics 品牌处理国际询盘、样品、报价与出口物流。",
     "entity.factoryLabel":"工厂",
     "entity.nanhaiLine":"中国广东省佛山市南海区",
     "entity.shundeLine":"中国广东省佛山市顺德区",
@@ -433,7 +433,7 @@ window.HX_I18N = {
     "entity.salesName":"佛山市顺德区金棉洋纺织品有限公司",
 
     "brand.subLine":"机织面料生产商 · 全球出口商",
-    "about.hero.eyebrow":"关于 Haixing Fabrics",
+    "about.hero.eyebrow":"关于 Haiwa Fabrics",
     "about.hero.title":"专业机织面料生产商，中国全球出口商",
 
     "ph.fabricType":"例如：牛仔布、棉斜纹布",
@@ -477,7 +477,7 @@ window.HX_I18N = {
 
     "tag.manufacturing":"生产制造", "tag.customDev":"定制开发", "tag.qualityControl":"品质管控",
     "tag.globalReach":"全球布局", "tag.insideTheMill":"走进工厂", "tag.coreProductLine":"核心产品线",
-    "tag.productRange":"产品系列", "tag.haixingAdvantage":"Haixing 优势", "tag.positioning":"品牌定位",
+    "tag.productRange":"产品系列", "tag.haiwaAdvantage":"Haiwa 优势", "tag.positioning":"品牌定位",
 
     "denim.pageTitle":"面向现代服装生产的牛仔面料",
     "mfg.pageTitle":"大规模机织面料生产",
@@ -670,8 +670,8 @@ window.HX_I18N = {
     "mkt.cta.lede":"告诉我们您所在的国家及面料需求——我们将为您提供运输与交期建议。",
 
     /* ---- ABOUT (about.html) ---- */
-    "about.heroLede":"Haixing Fabrics 是一家总部位于中国广东的大型机织面料生产商的国际品牌，并设有专门的销售出口机构提供支持。从纱线到面料，从中国到全球市场。",
-    "about.whyTag":"品牌定位", "about.whyTitle":"买家选择 Haixing Fabrics 的理由",
+    "about.heroLede":"Haiwa Fabrics 是一家总部位于中国广东的大型机织面料生产商的国际品牌，并设有专门的销售出口机构提供支持。从纱线到面料，从中国到全球市场。",
+    "about.whyTag":"品牌定位", "about.whyTitle":"买家选择 Haiwa Fabrics 的理由",
     "about.reason.directSupply.desc":"中国广东大规模生产直供。",
     "about.reason.largeCapacity.desc":"500多台必佳乐织机，年产能约6000万米。",
     "about.reason.stableProduction.desc":"日产能约18万米。",
