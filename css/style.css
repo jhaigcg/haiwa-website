@@ -396,6 +396,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
   position:relative; overflow:hidden;
 }
 .gallery-frame svg{ width:100%; height:100%; }
+.gallery-frame img{ width:100%; height:100%; object-fit:cover; display:block; }
 .gallery-frame .frame-label{
   position:absolute; bottom:0; left:0; right:0; padding:9px 12px;
   font-size:.7rem; color: var(--ink-faint); background: rgba(246,244,239,.9);
